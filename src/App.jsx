@@ -56,12 +56,62 @@ Apply these principles while PRESERVING their specific context:
       - End with emotional closure or thought-provoking question from their story
 
 3. STRUCTURE GUIDE (Flexible, adapt to their story):
-   - HOOK (0-5s): Grab attention with their most interesting detail
-   - CONTEXT (5-15s): Set up their scene quickly
-   - CONFLICT (15-35s): The "but" moment using their actual problem
-   - CLIMAX (35-45s): Emotional or tension peak from their experience
-   - RESOLUTION (45-55s): Their "therefore" payoff
-   - CLOSURE (55-60s): Loop back to hook or leave with their insight
+   - HOOK (0-5s, ~10-15 words): Open with THEIR most surprising/relatable moment
+     Example: "Day 30 in Goa. Same beach. When did I get so boring?"
+
+   - CONTEXT (5-15s, ~20-30 words): Quickly set the scene using their details
+     Example: "So I did something impulsive. Booked a trip. With strangers. Four days. What could go wrong?"
+
+   - CONFLICT/ACTION (15-40s, ~40-60 words): The "but" moment and what happened
+     Example: "Waterfalls. Mountains. A cliff jump I definitely wasn't ready for. Way too much feni. Way too many laughs."
+
+   - RESOLUTION (40-55s, ~20-30 words): Their "therefore" payoff with emotion
+     Example: "These people? Complete strangers four days ago. Now they're in my phone as 'Feni Fam.'"
+
+   - CLOSURE (55-60s, ~10-15 words): Loop back or leave with their insight
+     Example: "Sometimes the best decision is the one that scares you a little."
+
+TONE ENFORCEMENT - Make it Sound REAL:
+
+Your script should sound like someone telling their story to a friend over coffee, NOT like a written essay or poetry.
+
+BAD Examples (too writerly):
+❌ "Strangers became core memories"
+❌ "The journey transformed my perspective"
+❌ "In that moment, I discovered..."
+❌ "Sometimes the universe conspires..."
+
+GOOD Examples (conversational):
+✅ "These randos? Now they're in my phone as 'Feni Fam'"
+✅ "Turned out getting lost was the best thing that happened"
+✅ "Four days ago, strangers. Now? My people."
+✅ "And just like that, I stopped overthinking"
+
+RULES FOR NATURAL TONE:
+- Use contractions (I'm, didn't, we're, that's)
+- Use rhetorical questions ("What could go wrong?")
+- Include self-aware moments ("Was it stupid? Maybe.")
+- Use sentence fragments for emphasis ("Four days. Complete strangers. Zero regrets.")
+- Add specific slang or colloquialisms from their input
+- Internal thoughts are OK ("God, when did I get so boring?")
+- Avoid poetic metaphors - be direct and real
+- Read every line aloud - if it sounds written, rewrite it
+
+EXAMPLE TRANSFORMATIONS - Learn from these:
+
+INPUT: "Went to Goa, got bored, booked spontaneous trip, made friends"
+
+BAD OUTPUT:
+"Thirty days in paradise, yet my soul yearned for something more. Then destiny intervened. Four days of serendipitous encounters transformed strangers into kindred spirits."
+
+GOOD OUTPUT:
+"Day 30 in Goa. Same beach, same routine. God, when did I get so boring? So I did something impulsive—booked a trip with complete strangers. Four days later? They're not strangers anymore."
+
+See the difference? The good version:
+- Uses natural speech patterns ("God, when did I...")
+- Has conversational rhythm (fragments, questions)
+- Avoids flowery language ("serendipitous encounters" → "complete strangers")
+- Feels like someone talking, not writing
 
 CRITICAL RULES - NON-NEGOTIABLE:
 ✓ Use EXACT locations (if "Netravali bubbling lake" → say "Netravali bubbling lake", not "a lake" or "natural spring")
@@ -70,6 +120,8 @@ CRITICAL RULES - NON-NEGOTIABLE:
 ✓ Don't generalize their story - keep it THEIRS, not a template
 ✓ Match their energy level (spontaneous/planned, chaotic/serene, etc.)
 ✓ Use natural, speakable language - read it aloud in your head
+✓ NO POETIC LANGUAGE - if it sounds like it belongs in a written essay, rewrite it conversationally
+✓ SPEAK-TEST - every line must sound natural when read aloud, like someone talking to their friend
 
 OUTPUT FORMAT:
 - 30-60 seconds when read aloud (75-150 words)
